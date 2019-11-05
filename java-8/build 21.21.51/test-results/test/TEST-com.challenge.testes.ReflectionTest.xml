@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.challenge.testes.ReflectionTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2019-10-29T00:16:46" hostname="MacBook-Pro-1099.local" time="0.03">
+  <properties/>
+  <testcase name="whenSubtract" classname="com.challenge.testes.ReflectionTest" time="0.017"/>
+  <testcase name="shouldHaveAddMethod" classname="com.challenge.testes.ReflectionTest" time="0.003"/>
+  <testcase name="whenResultWithoutAnnotation" classname="com.challenge.testes.ReflectionTest" time="0.001"/>
+  <testcase name="shouldHaveSubtractMethod" classname="com.challenge.testes.ReflectionTest" time="0.001"/>
+  <testcase name="whenResult" classname="com.challenge.testes.ReflectionTest" time="0.001"/>
+  <testcase name="shouldHaveResultMethod" classname="com.challenge.testes.ReflectionTest" time="0.001"/>
+  <testcase name="whenSubtractAllWithouAnnotation" classname="com.challenge.testes.ReflectionTest" time="0.0"/>
+  <testcase name="whenAdd" classname="com.challenge.testes.ReflectionTest" time="0.001"/>
+  <testcase name="whenAddWithouAnnotation" classname="com.challenge.testes.ReflectionTest" time="0.0"/>
+  <testcase name="shouldImplementsCalculavel" classname="com.challenge.testes.ReflectionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
